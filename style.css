@@ -1,4 +1,17 @@
-.comonn{
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.other{
+    filter: brightness(40%);
+}
+
+.fa-star{
+    color: rgb(205, 163, 10);
+    width: 24px;
+    height: 24px;
+}
+
+.common{
     position: relative;
 }
 .fa-angle-left{
